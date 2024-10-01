@@ -3,6 +3,9 @@
 ## Overview
 This Age Calculator allows users to calculate their exact age in years, months, and days based on their birthdate. It's a simple yet useful tool built with HTML, CSS, and JavaScript to provide an accurate age calculation.
 
+## Preview
+![Screenshot 2024-10-01 155404](https://github.com/user-attachments/assets/b2d91a66-98f8-4d5c-9d61-5c7c1625047d)
+
 ## Features
 - **Input Birthdate**: Users can select their birthdate.
 - **Exact Age Calculation**: The app calculates the exact age in years, months, and days.
