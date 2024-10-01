@@ -32,7 +32,7 @@ Or download the ZIP file and extract it
 3. **View Result**: The result (your age in years, months, and days) will be displayed below the input field.
 
 ## Author
-- https://github.com/FarisHaziq02
+- [Faris Haziq](https://github.com/FarisHaziq02)
 
 ## Acknowledgments
 - Special thanks to **GreatStack** YouTube channel for the project idea.
